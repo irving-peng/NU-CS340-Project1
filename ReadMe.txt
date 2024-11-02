@@ -1,0 +1,1 @@
+This is a project is a simple application for a client and server connection. 
